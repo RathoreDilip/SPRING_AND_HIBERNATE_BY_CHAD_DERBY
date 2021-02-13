@@ -6,7 +6,52 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="139994a8-c0f6-47de-a267-89fa72beaac9" name="Default Changelist" comment="" />
+    <list default="true" id="139994a8-c0f6-47de-a267-89fa72beaac9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25-mycoolapp-maven/target/classes/META-INF/maven/com.luv2code/25-mycoolapp-maven/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../25-mycoolapp-maven/target/classes/META-INF/maven/com.luv2code/25-mycoolapp-maven/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-mycool-webapp-maven/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/26-mycool-webapp-maven/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../26-mycool-webapp-maven/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/26-mycool-webapp-maven/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/spring-hibernate-for-beginners/spring-web-customer-tracker/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/spring-hibernate-for-beginners/spring-web-customer-tracker/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-spring-security-demo-01-base-app/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../28-spring-security-demo-01-base-app/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-spring-security-demo-01-base-app/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../28-spring-security-demo-01-base-app/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-spring-security-demo-02-basic-security/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../29-spring-security-demo-02-basic-security/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-spring-security-demo-02-basic-security/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../29-spring-security-demo-02-basic-security/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30-spring-security-demo-03-custom-login-form/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../30-spring-security-demo-03-custom-login-form/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30-spring-security-demo-03-custom-login-form/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../30-spring-security-demo-03-custom-login-form/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-spring-security-demo-04-bootstrap-login-form/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../31-spring-security-demo-04-bootstrap-login-form/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-spring-security-demo-04-bootstrap-login-form/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../31-spring-security-demo-04-bootstrap-login-form/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32-spring-security-demo-05-logout/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../32-spring-security-demo-05-logout/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32-spring-security-demo-05-logout/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../32-spring-security-demo-05-logout/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33-spring-security-demo-06-csrf/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../33-spring-security-demo-06-csrf/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33-spring-security-demo-06-csrf/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../33-spring-security-demo-06-csrf/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34-spring-security-demo-07-user-roles/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../34-spring-security-demo-07-user-roles/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34-spring-security-demo-07-user-roles/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../34-spring-security-demo-07-user-roles/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../35-spring-security-demo-08-jdbc-plaintext/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../35-spring-security-demo-08-jdbc-plaintext/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../35-spring-security-demo-08-jdbc-plaintext/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../35-spring-security-demo-08-jdbc-plaintext/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../35-spring-security-demo-08-jdbc-plaintext/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../35-spring-security-demo-08-jdbc-plaintext/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36-spring-security-demo-09-jdbc-bcrypt/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../36-spring-security-demo-09-jdbc-bcrypt/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36-spring-security-demo-09-jdbc-bcrypt/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../36-spring-security-demo-09-jdbc-bcrypt/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36-spring-security-demo-09-jdbc-bcrypt/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../36-spring-security-demo-09-jdbc-bcrypt/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-security-demo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../37-jackson-databinding-json-demo/target/classes/META-INF/maven/com.luv2code/jackson-databind-json-demo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../37-jackson-databinding-json-demo/target/classes/META-INF/maven/com.luv2code/jackson-databind-json-demo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../38-spring-rest-demo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../38-spring-rest-demo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../38-spring-rest-demo/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../38-spring-rest-demo/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../38-spring-rest-demo/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-rest-demo/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../38-spring-rest-demo/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code/spring-rest-demo/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../39-spring-crm-rest-demo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../39-spring-crm-rest-demo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../39-spring-crm-rest-demo/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../39-spring-crm-rest-demo/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../39-spring-crm-rest-demo/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code.springdemo/spring-crm-rest/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../39-spring-crm-rest-demo/target/m2e-wtp/web-resources/META-INF/maven/com.luv2code.springdemo/spring-crm-rest/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp-springboot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../40-mycoolapp-springboot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp-springboot/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../40-mycoolapp-springboot/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40-mycoolapp/src/test/java/com/luv2code/springboot/demo/mycoolapp/ApplicationTests.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="468">
+              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -48,12 +93,15 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
+              <caret column="45" selection-start-column="45" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -79,12 +127,12 @@
     <option name="width" value="1350" />
     <option name="height" value="690" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -176,12 +224,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../JAVA_INTELIJ/DEMO1_INTELLJ" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -292,11 +342,12 @@
       <updated>1609875197047</updated>
       <workItem from="1609875203383" duration="1518000" />
       <workItem from="1609876758216" duration="149000" />
+      <workItem from="1611630869819" duration="68000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1667000" />
+    <option name="totallyTimeSpent" value="1735000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -310,7 +361,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -349,17 +400,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/controller/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
+        <state relative-caret-position="468">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/controller/CustomerController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state>
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
         </state>
       </provider>
     </entry>
